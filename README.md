@@ -29,12 +29,12 @@ Android面试准备
   - [抽象工厂模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
   - [单例模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
   - [建造者模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
--结构型模式
+- 结构型模式
   - [适配器模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
   - [外观模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
   - [装饰者模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
   - [代理模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
- -行为型模式
+- 行为型模式
   - [命令模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
   - [迭代器模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
   - [观察者模式](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
