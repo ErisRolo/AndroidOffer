@@ -8,13 +8,13 @@ Android面试准备
 
 ## Java
 
-- [Java集合](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
-- [Java泛型](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
-- [Java反射](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
-- [Java注解](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
-- [Java IO](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
-- [Java并发](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
-- [Java虚拟机](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
+- [Java集合](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java集合.md)
+- [Java泛型](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java泛型.md)
+- [Java反射](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java反射.md)
+- [Java注解](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java注解.md)
+- [Java IO](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java IO.md)
+- [Java并发](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java并发.md)
+- [Java虚拟机](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java虚拟机.md)
 
 ## Android
 
