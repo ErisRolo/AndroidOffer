@@ -13,6 +13,7 @@ Android面试准备
 - [Java反射](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java反射.md)
 - [Java注解](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java注解.md)
 - [Java IO](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java%20IO.md)
+- [RandomAccessFile](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
 - [Java并发](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java并发.md)
 - [Java虚拟机](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java虚拟机.md)
 
