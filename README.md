@@ -14,6 +14,13 @@ Android面试准备
 - [Java注解](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java注解.md)
 - [Java IO](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java%20IO.md)
 - [RandomAccessFile](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java NIO](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java异常](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java抽象类和接口](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java深拷贝和浅拷贝](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java transient关键字](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java finally与return执行顺序](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java 8](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
 - [Java并发](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java并发.md)
 - [Java虚拟机](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java虚拟机.md)
 
