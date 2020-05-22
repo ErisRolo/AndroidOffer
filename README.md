@@ -4,7 +4,7 @@ Android面试准备
 
 包括Java、Android、设计模式、计算机网络、操作系统、数据库等
 
-施工中（我不想学Android了！！！
+施工中
 
 ## Java
 
