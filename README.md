@@ -18,7 +18,7 @@ Android面试准备
 - [Java异常](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java异常.md)
 - [Java抽象类和接口](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java抽象类和接口.md)
 - [Java深拷贝和浅拷贝](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java深拷贝和浅拷贝.md)
-- [Java transient关键字](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
+- [Java transient关键字](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java%20transient.md)
 - [Java finally与return执行顺序](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
 - [Java 8](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/RandomAccessFile.md)
 - [Java并发](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java并发.md)
