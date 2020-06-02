@@ -28,6 +28,8 @@ Android面试准备
 
 - [Activity](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
 - [Service](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
+- [BroadcastReceiver](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
+- [ContentProvider](https://github.com/ErisRolo/PAT/blob/master/PAT%20常用模板总结/map.md)
 
 ## 设计模式
 
