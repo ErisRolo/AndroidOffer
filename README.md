@@ -4,7 +4,7 @@ Android面试准备
 
 包括Java、Android、设计模式、计算机网络、操作系统、数据库等
 
-施工中（HIKVISION、阿里、58、转转
+施工中（HIKVISION、阿里、58、转转、腾讯？
 
 ## Java
 
