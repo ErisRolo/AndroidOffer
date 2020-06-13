@@ -6,7 +6,7 @@ Android面试准备
 
 施工中（HIKVISION、阿里、58、转转
 
-预计7月前完成
+7月前完成
 
 ## Java
 
