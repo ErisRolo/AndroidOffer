@@ -6,7 +6,11 @@ Android面试准备
 
 施工中（HIKVISION、阿里、58、转转
 
-7月前完成
+6.15 Java
+
+6.18 Android
+
+6.20 Others
 
 ## Java
 
