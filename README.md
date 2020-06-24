@@ -6,12 +6,6 @@ Android面试准备
 
 施工中（HIKVISION、阿里、58、转转
 
-6.20 Java
-
-6.23 Android
-
-6.25 Others
-
 ## Java
 
 - [Java集合](https://github.com/ErisRolo/AndroidOffer/blob/master/Java/Java集合.md)
