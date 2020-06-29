@@ -6,8 +6,6 @@ Android面试准备
 
 //施工中（HIKVISION、阿里、58、转转
 
-Java部分完结
-
 考研去了 有空再说
 
 ## Java
